@@ -1,4 +1,4 @@
-# Renewable-Energy-Predictive-Analysis:
+# Renewable-Energy-Predictive-Analysis-1:
 -   The goal of this Analysis_1 was to identify key drivers of renewable energy adoption, with a  linear Regression model.
 -   The matrix shows all the factors considered in this analysis and their relativity, such as the renewable share total of an entity, the amount of low carbon electricity it generates among others
 -  	MAE is 5.60, indicating small prediction errors.
